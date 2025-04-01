@@ -60,8 +60,8 @@ first_project-ml/
 ├── pizzas.csv           # Base de dados
 ├── poetry.lock          # Dependências do projeto
 ├── pyproject.toml       # Configuração do Poetry
-├── README.md            # Documentação do projeto
 ├── teste.ipynb          # Análise exploratória (Jupyter Notebook)
+├── README.md            # Documentação do projeto
 ```
 
 ---
